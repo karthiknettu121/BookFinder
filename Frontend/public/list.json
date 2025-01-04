@@ -1,0 +1,172 @@
+[
+    {
+      "id": 1,
+      "name": "The Time Has Come",
+      "title": " The routine lives of several residents of Athens, Georgia, collide unexpectedly when a fourth grade teacher seeks to avenge injustices she believes were caused by a prominent local family.",
+      "Price": 0,
+      "category": "latest",
+      "image": "book-1.jpg"
+
+      
+    },
+    {
+      "id": 2,
+      "name": "I Want A Better Catastrophe",
+      "title": "With global heating projected to rocket past the 1.5°C limit, lifelong activist Andrew Boyd is thrown into a crisis of hope, and off on a quest to learn how to live with the impossible news of our climate doom.",
+      "Price": 14.99,
+      "category": "latest",
+      "image": "book-2.jpg"
+
+    },
+    {
+      "id": 3,
+      "name": "My Government Means To Kill Me",
+      "title": "It's the fictional memoir of Trey Newson, a young, Black gay man who's moved from Indianapolis to New York City in the early 1980s at the start of the AIDS epidemic.",
+      "Price": 29.99,
+      "category": "latest", 
+      "image": "book-3.jpg"
+
+    },
+    {
+      "id": 4,
+      "name": "Pride and Protest",
+      "title": "the only DJ who gives a jam—wants to take her neighborhood back from the soulless property developer dropping unaffordable condos on every street corner in DC",
+      "Price": 39.99,
+      "category": "latest", 
+      "image": "book-4.jpg"
+     
+    },
+    {
+      "id": 5,
+      "name": "Find A Sponser",
+      "title": "Hewlett's book is full of smart advice, backed up by data, about the impact that a senior-level leader who acts as an advocate can have on others. -- Washington Post.",
+      "Price": 34.99,
+      "category": "books",
+      "image": "book-5.jpg"
+    },  
+
+    {
+      "id": 6,
+      "name": "The Midnight Libary",
+      "title": "The books in the Midnight Library enable Nora to live as if she had done things differently. With the help of an old friend, she can now undo every one of her regrets as she tries to work out her perfect life. ",
+      "Price": 39.99,
+      "category": "marketing",
+      "image": "book-6.jpg"
+
+    },
+    {
+      "id": 7,
+      "name": "The First Days",
+      "title": "Katie is driving to work one beautiful day when a dead man jumps into her car and tries to eat her.  That same morning, Jenni opens a bedroom door to find her husband devouring their toddler son. ",
+      "Price": 49.99,
+      "category": "horror",
+      "image": "book-7.jpg"
+
+    },
+    {
+      "id": 8,
+      "name": "The Hunger Games",
+      "title": "Could you survive on your own in the wild, with every one out to make sure you don't live to see the morning?",
+      "Price": 16.99,
+      "category": "fiction",
+      "image": "book-8.jpg"
+
+    },
+    {
+      "id": 9,
+      "name": "Harry Potter and the Order of the Phoenix",
+      "title": "Harry Potter is about to start his fifth year at Hogwarts School of Witchcraft and Wizardry. Unlike most schoolboys, Harry never enjoys his summer holidays",
+      "Price": 18.99,
+      "category": "adventure", 
+      "image": "book-9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Pride and Prejudice",
+      "title": "The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring.",
+      "Price": 10.99,
+      "category": "fiction",
+      "image": "book-10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "To Kill a Mockingbird",
+      "title": "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it. 'To Kill A Mockingbird' became both an instant bestseller",
+      "Price": 25.99,
+      "category": "fiction",
+      "image": "book-11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "The Fault in Our Stars",
+      "title": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. ",
+      "Price": 9.99,
+      "category": "business",
+      "image": "book-12.jpg"
+    },
+    {
+      "id": 13,
+      "name": "The Picture of Dorian Gray",
+      "title": "Oscar Wilde’s only novel is the dreamlike story of a young man who sells his soul for eternal youth and beauty.",
+      "Price": 21.99,
+      "category": "horror",
+      "image": "book-13.jpg"
+    },
+    {
+      "id": 14,
+      "name": "The Giving Tree",
+      "title": "'Once there was a tree...and she loved a little boy.'So begins a story of unforgettable perception, beautifully written and illustrated by the gifted and versatile Shel Silverstein.",
+      "Price": 24.99,
+      "category": "fiction",
+      "image": "book-14.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Gone with the Wind",
+      "title": "Scarlett O'Hara, the beautiful, spoiled daughter of a well-to-do Georgia plantation owner, must use every means at her disposal to claw her way out of the poverty she finds herself in after Sherman's March to the Sea.",
+      "Price": 12.99,
+      "category": "fiction",
+      "image": "book-15.jpg"
+    },
+    {
+      "id": 16,
+      "name": "The Lightning Thief",
+      "title": "Percy Jackson is a good kid, but he can't seem to focus on his schoolwork or control his temper. And lately, being away at boarding school is only getting worse - Percy could have sworn his pre-algebra teacher turned into a monster and tried to kill him",
+      "Price": 19.99,
+      "category": "fiction",
+      "image": "book-16.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Alice’s Adventures in Wonderland",
+      "title": "When Alice sees a white rabbit take a watch out of its waistcoat pocket she decides to follow it, and a sequence of most unusual events is set in motion. This mini book contains the entire topsy-turvy stories of Alice's Adventures in Wonderland",
+      "Price": 39.99,
+      "category": "adventure",
+      "image": "book-17.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Divergent",
+      "title": "On an appointed day of every year, all sixteen-year-olds must select the faction to which they will devote the rest of their lives. For Beatrice, the decision is between staying with her family and being who she really is",
+      "Price": 12.99,
+      "category": "business",
+      "image": "book-18.jpg"
+    },
+    {
+      "id": 19,
+      "name": "The Alchemist",
+      "title": "Paulo Coelho's masterpiece tells the mystical story of Santiago, an Andalusian shepherd boy who yearns to travel in search of a worldly treasure.", 
+      "Price": 27.99,
+      "category": "adventure",
+      "image": "book-19.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Four Thousand Weeks",
+      "title": "Nobody needs to be told there isn’t enough time. We’re obsessed with our lengthening to-do lists, overfilled inboxes, work-life balance, and ceaseless battle against distraction; we’re deluged with advice on becoming more productive and efficient",
+      "Price": 14.99,
+      "category": "business",
+      "image": "book-20.jpg"
+    }
+  ]
+  
